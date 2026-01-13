@@ -208,9 +208,9 @@ if [ -n "${CUSTOM_SRC_PATH}" ]; then
 	BUILD_NAME="${WINE_VERSION}"-custom
 elif [ "$WINE_BRANCH" = "staging-tkg" ] || [ "$WINE_BRANCH" = "staging-tkg-fsync" ]; then
 	if [ "$WINE_BRANCH" = "staging-tkg" ]; then
-		git clone https://github.com/Kron4ek/wine-tkg wine
+		git clone https://github.com/Azkali/wine-tkg wine
 	else
-		git clone https://github.com/Kron4ek/wine-tkg wine -b fsync
+		git clone https://github.com/Azkali/wine-tkg wine -b fsync
 	fi
 
 	WINE_VERSION="$(cat wine/VERSION | tail -c +14)"

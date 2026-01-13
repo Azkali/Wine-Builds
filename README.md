@@ -1,8 +1,8 @@
 ## Download
 
-The builds can be downloaded either from [**the releases page**](https://github.com/Kron4ek/Wine-Builds/releases).
+The builds can be downloaded either from [**the releases page**](https://github.com/Azkali/Wine-Builds/releases).
 
-They are also available on [the Actions page](https://github.com/Kron4ek/Wine-Builds/actions), you need to be logged into your GitHub account to be able to download from there.
+They are also available on [the Actions page](https://github.com/Azkali/Wine-Builds/actions), you need to be logged into your GitHub account to be able to download from there.
 
 ---
 
@@ -95,5 +95,5 @@ Please do not report issues that are not specific to my builds - for example, if
 * https://dl.winehq.org/wine/source/
 * https://github.com/wine-staging/wine-staging
 * https://github.com/Frogging-Family/wine-tkg-git
-* https://github.com/Kron4ek/wine-tkg
+* https://github.com/Azkali/wine-tkg
 * https://github.com/ValveSoftware/wine
